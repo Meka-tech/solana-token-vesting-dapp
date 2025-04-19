@@ -1,0 +1,1 @@
+/Users/meka/Documents/GitHub/solana/token-vesting/anchor/target/sbpf-solana-solana/release/libtokenvesting.rlib: /Users/meka/Documents/GitHub/solana/token-vesting/anchor/programs/tokenvesting/src/lib.rs
